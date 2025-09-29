@@ -4,7 +4,7 @@ spring:
     username: root
     password: letmein
 
-logging:
+logging:  
   level:
     com.example.userservice: DEBUG
 
@@ -13,7 +13,7 @@ feign:
     config:
       default:
         connectTimeout: 5000
-        readTimeout: 10000
+        readTimeout: 7000
         retryer:
           period: 100
           maxPeriod: 1000
