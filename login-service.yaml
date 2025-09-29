@@ -13,7 +13,7 @@ feign:
     config:
       default:
         connectTimeout: 5000
-        readTimeout: 7000
+        readTimeout: 10000
         retryer:
           period: 100
           maxPeriod: 1000
