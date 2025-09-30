@@ -7,3 +7,6 @@ spring:
 logging:
   level:
     com.example.userservice: DEBUG
+
+welcome
+  message: "Hello from config server"
