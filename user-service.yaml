@@ -9,4 +9,4 @@ logging:
     com.example.userservice: DEBUG
 
 welcome:
-  message: "Hello World"
+  message: "Hello from config server!!!"
