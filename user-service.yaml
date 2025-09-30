@@ -9,4 +9,4 @@ logging:
     com.example.userservice: DEBUG
 
 welcome:
-  message: "Hello from update config server to test spring bus!!!"
+  message: "Hello World"
