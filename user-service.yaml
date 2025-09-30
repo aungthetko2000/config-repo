@@ -8,5 +8,5 @@ logging:
   level:
     com.example.userservice: DEBUG
 
-welcome
+welcome:
   message: "Hello from config server"
